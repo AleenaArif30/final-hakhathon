@@ -1,0 +1,89 @@
+.right {
+    justify-content: flex-end;
+}
+
+.aleena {
+    width: Hug (405px)px;
+    height: Hug (19px)px;
+    top: 43px;
+    left: 683px;
+    gap: 40px;
+    opacity: 0px;
+    color: #000000;
+}
+
+.logo {
+    color: black;
+    font-weight: bold;
+}
+
+.contact {
+    border: 2px solid black;
+}
+
+.own {
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60.94px;
+    text-align: left;
+    color: #31135E;
+}
+
+.free {
+    color: purple;
+}
+
+.teacher {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #505258;
+}
+
+.get {
+    width: Fixed (200px)px;
+    height: Fixed (50px)px;
+    top: 534px;
+    left: 108px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 8px 8px -4px #18274B14;
+
+    box-shadow: 0px 4px 6px -4px #18274B1F;
+}
+
+.contact {
+    width: Fixed (150px)px;
+    height: Fixed (40px)px;
+    top: 32px;
+    left: 1173px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid;
+
+    border-image-source: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+
+}
+
+/* .main { background-color: #F4EEFE
+    
+} */
+
+
+.main{  background-image: linear-gradient(to right, rgba(231, 191, 225, 0.959), rgba(163, 101, 144, 0.822));
+}
+
+
+
+
